@@ -1,0 +1,17 @@
+# Source: internal.neuralis.corp / export (simulated)
+# NOTE: This file is fictional and created for CTF use only. Do NOT use for real-world investigations.
+# Breadcrumb token (base64): U2VjcmV0RGF0YV9Qcm9qZWN0
+
+customer_id,org_name,contact_name,contact_email,contract_value_usd,region,project_code,project_stage,internal_notes
+NL-0001,OrchardAI,Leah Morgan,leah.morgan@orchardai.com,450000,EMEA,PRJ-NEU-724,prod,"Data ingestion pipeline; includes anonymized logs. Audit scheduled Q4."
+NL-0002,Helix Dynamics,Marc R.,marc.r@helixdyn.com,1250000,APAC,PRJ-NEU-811,staging,"Custom model tuning; contains PII placeholders (redacted). Billing hold: invoice_96734."
+NL-0003,Secura Systems,Ana Delgado,ana.delgado@securasy.com,300000,NAM,PRJ-NEU-612,dev,"Prototype config files attached. Access via internal share: //files/internal/secure/PRJ-612 (access restricted)."
+NL-0004,BlueHarbor Labs,Tom K.,tom.k@blueharbor.com,850000,EMEA,PRJ-NEU-900,prod,"Performance logs and internal benchmarking. Note: top-tier SLA."
+NL-0005,Skyline Robotics,Eun-ji Park,eunji.park@skylinerob.com,210000,APAC,PRJ-NEU-701,dev,"Contains sensor calibration vectors. Placeholder API keys present (redacted)."
+NL-0006,Offshore Solutions LLC,Victor H.,victor@offshore-sln.com,1250000,Offshore,PRJ-NEU-724,contract,"Consulting/outsourcing partner. Invoice REF: 547F-6A2B-4C. Payment confirmed 2025-09-28."
+NL-0007,Arcadia Health,Dr. S. Nair,s.nair@arcadiahealth.com,410000,NAM,PRJ-NEU-523,staging,"Healthcare dataset (anonymized). Regulatory check pending."
+NL-0008,QuantumArray,Li Wei,li.wei@quantarray.com,980000,EMEA,PRJ-NEU-845,prod,"Proprietary model weights stored in encrypted archive (key escrow in KMS)."
+NL-0009,Atlas Transit,Bruno Silva,bruno.s@atlastrans.com,150000,NAM,PRJ-NEU-337,dev,"Traffic prediction module; telemetry logs include vehicle IDs (pseudonymized)."
+NL-0010,Mirage Media,Sara V.,sara.v@miragemedia.com,60000,EMEA,PRJ-NEU-155,dev,"Marketing A/B test data. Minimal sensitivity."
+NL-0011,HomeGrid Systems,Jordan F.,jordan.finance@homegrid.com,1250000,NAM,PRJ-NEU-724,contract,"Large consulting disbursement. Reference TRX-20250928-9F3E4B7C. Finance contact on record."
+NL-0012,PolarWorks, Riley N.,riley.n@polarworks.com,0,Internal,PRJ-INT-000,internal,"Internal admin test account. NOTE: mirror stash referenced in user notes."
